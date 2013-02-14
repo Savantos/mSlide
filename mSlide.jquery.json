@@ -1,7 +1,7 @@
 {
     "name": "mSlide",
     "title": "jQuery mSlide",
-    "description": "Simple and easy to use slider-gallery with touch support.",
+    "description": "Simple and easy to use slider-gallery with mobile touch support.",
     "keywords": [
         "slider",
         "animation",
