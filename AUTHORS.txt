@@ -1,0 +1,13 @@
+/*
+ * jquery.mSlide.js - jQuery plugin
+ * simple and easy to use slider-gallery with touch support
+ *
+ * written by: M.Eckebrecht, D.Lehmann
+ * examples and documentation at: www.quirks-modus.de/_mSlide/
+ * 
+ * version: 1.0 (16/02/2012)
+ * requirements: jQuery, jQueryUI
+ * 
+ * licensed under the GPL license:
+ *   http://www.gnu.org/licenses/gpl.html
+*/

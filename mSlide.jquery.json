@@ -1,0 +1,31 @@
+{
+    "name": "mSlide",
+    "title": "jQuery mSlide",
+    "description": "Simple and easy to use slider-gallery with touch support.",
+    "keywords": [
+        "slider",
+        "animation",
+        "slideshow",
+        "gallery"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Quirks-Modus",
+        "url": "https://github.com/dlehmann/mSlide/blob/master/AUTHORS.txt"
+    },
+    "licenses": [
+        {
+            "type": "GPLv3",
+            "url": "http://www.gnu.org/licenses/gpl.html"
+        }
+    ],
+    "bugs": "https://github.com/dlehmann/mSlide/issues",
+    "homepage": "http://www.quirks-modus.de/_mSlide/",
+    "demo": "http://www.quirks-modus.de/_mSlide/",
+    "docs": "http://www.quirks-modus.de/archives/298",
+    "download": "https://github.com/dlehmann/mSlide/archive/master.zip",
+    "dependencies": {                                                                                          
+        "jquery": ">=1.7.2",
+        "jqueryui": ">=1.8.17"
+    }
+}
